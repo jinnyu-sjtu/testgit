@@ -9,3 +9,5 @@ using namespace std
 int main(){
 	cout<<"Welcome"<<endl;
 }
+
+#I dont konw many things about C++
